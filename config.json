@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendalculate",
+        "uuid": 5302008,
+        "checksum": "j58xzt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
